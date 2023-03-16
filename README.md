@@ -1,2 +1,1 @@
-# PYTHON
- Scripts Python
+PYTHON
